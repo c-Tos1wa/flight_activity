@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Criar um sistema de indicação para um associado em uma companhia aérea aderir a um programa de fidelidade.
+Criar um sistema para um associado em uma companhia aérea aderir a um programa de fidelidade.
 
 ### Preparação do ambiente
 
@@ -36,6 +36,9 @@ poetry install
 ### Ferramentas
 
 * [SQlite](https://www.sqlite.org/index.html)
+* [Pandas](https://pandas.pydata.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/index.html)
+* [Streamlit](https://streamlit.io/)
 
 ### Autor(a)
 
